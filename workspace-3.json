@@ -1,0 +1,45 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "pixel",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 452,
+       "width": 734,
+       "x": 0,
+       "y": 0
+    },
+    "name": "satyamjay@LP-1833: ~",
+    "percent": 0.5,
+    "swallows": [
+       {
+        "class": "^X\\-terminal\\-emulator$",
+        "instance": "^x\\-terminal\\-emulator$",
+        "title": "^satyamjay\\@LP\\-1833\\:\\ \\~$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "pixel",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 452,
+       "width": 734,
+       "x": 0,
+       "y": 0
+    },
+    "name": "satyamjay@LP-1833: ~",
+    "percent": 0.5,
+    "swallows": [
+       {
+        "class": "^X\\-terminal\\-emulator$",
+        "instance": "^x\\-terminal\\-emulator$",
+        "title": "^satyamjay\\@LP\\-1833\\:\\ \\~$"
+       }
+    ],
+    "type": "con"
+}
+

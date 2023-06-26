@@ -33,11 +33,13 @@ use_spacer right
 
 TEXT
 ${color 535C5C}
-  _____ ${color de6839} _    ${color 535C5C} __    _      _      _
-   | |  ${color de6839}\ \_/ ${color 535C5C}/ /`_ \ \  / | |\ | | |\ |
-   |_|  ${color de6839}/_/ \ ${color 535C5C}\_\_/  \_\/  |_| \| |_| \|
+   _____       __                                 
+  / ___/____ _/ /___  ______ _____ ___                   
+  \__ \/ __ `/ __/ / / / __ `/ __ `__ \                 
+ ___/ / /_/ / /_/ /_/ / /_/ / / / / / /                 
+/____/\__,_/\__/\__, /\__,_/_/ /_/ /_/                    
+               /____/                  
 ${color 5a715c}
-  [ @author TxGVNN ]
+  [ @author Satyam ]
 ${color}
-${execp cat "/tmp/.${LOGNAME}_i3_daemon"}
-${texeci 1800 ~/.i3/bin/daemon > "/tmp/.${LOGNAME}_i3_daemon" 2>&1}
+
