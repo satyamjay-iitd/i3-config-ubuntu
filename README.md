@@ -23,7 +23,7 @@ Don't forget setup the `Xresources` file. If you expect more dotfiles, you can h
 ### Requirements
 
 ```
-xbacklight xinput i3blocks rxvt-unicode-256color screen feh scrot redshift alsa-utils acpi fonts-font-awesome xdotool xclip
+xbacklight xinput i3blocks rxvt-unicode-256color screen feh scrot redshift alsa-utils acpi fonts-font-awesome xdotool xclip graphicsmagick-imagemagick-compat
 ```
 
 ## Bindings
