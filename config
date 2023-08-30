@@ -347,7 +347,7 @@ set $ce     #ceecee
 # start application
 exec --no-startup-id nm-applet
 exec --no-startup-id blueman-tray
-exec --no-startup-id feh --bg-fill ~/Pictures/Wallpapers/current-wallpaper.jpg
+exec --no-startup-id feh --bg-fill ~/.i3/wallpaper.jpg
 exec --no-startup-id conky -d -c ~/.i3/conky-right
 exec --no-startup-id conky -d -c ~/.i3/conky-left
 # exec --no-startup-id conky -d -c ~/.i3/conky-bottom
